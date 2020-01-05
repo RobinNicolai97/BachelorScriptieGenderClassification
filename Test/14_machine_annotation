@@ -1,62 +1,60 @@
-pub	neutral
-ik	Not in Knowledge Base
-ik	Not in Knowledge Base
-stukje	neutral
-Engeland	neutral
-Premier John Major	neutral
+pub	Not in Knowledge Base
+stukje	inanimate
+Engeland	male
+Premier John Major	male
 zoon	male
 circusartiesten	Not in Knowledge Base
-stad	neutral
+stad	female
 1993	Not in Knowledge Base
-jaar	neutral
+jaar	animate
 Groot-Brittannie	Not in Knowledge Base
-land	neutral
-schaduwen	neutral
-velden	inanimate
+land	plural
+schaduwen	Not in Knowledge Base
+velden	Not in Knowledge Base
 bier	inanimate
-buitenwijken	inanimate
+buitenwijken	Not in Knowledge Base
 hondenliefhebbers	Not in Knowledge Base
 George Orwell	male
 dienstmeiden	Not in Knowledge Base
 mist	male
 herfstochtend	Not in Knowledge Base
-communie	neutral
+communie	Not in Knowledge Base
 Major	Not in Knowledge Base
 Conservatieven	Not in Knowledge Base
 ambtstermijn	Not in Knowledge Base
 leider	male
 1997	Not in Knowledge Base
 Tony Blair	male
-ster	female
+ster	male
 Labour	Not in Knowledge Base
 Major	Not in Knowledge Base
 cricket	Not in Knowledge Base
-voorspelling	neutral
-Blair	neutral
-droom	neutral
+voorspelling	Not in Knowledge Base
+Blair	Not in Knowledge Base
+droom	female
 New Britannia	inanimate
-welvaart	neutral
+welvaart	Not in Knowledge Base
 gelijkheid	Not in Knowledge Base
-platteland	neutral
+platteland	male
 verstedelijking	Not in Knowledge Base
-land	neutral
-schaduwen	neutral
+land	plural
+schaduwen	Not in Knowledge Base
 cocon	Not in Knowledge Base
 plattelandsbevolking	Not in Knowledge Base
-veiligheid	neutral
-geborgenheid	neutral
-boeren	neutral
+veiligheid	inanimate
+geborgenheid	Not in Knowledge Base
+boeren	plural
 aristocraten	Not in Knowledge Base
-achterban	neutral
+achterban	Not in Knowledge Base
 Conservatieven	Not in Knowledge Base
-tranen	neutral
-maanden	neutral
-Engeland	neutral
-Wales	neutral
+tranen	Not in Knowledge Base
+maanden	male
+Engeland	male
+Wales	Not in Knowledge Base
 hoornsignaal	Not in Knowledge Base
 vossenjacht	Not in Knowledge Base
 honden	plural
-kleurenpalet	neutral
+kleurenpalet	Not in Knowledge Base
 rood	inanimate
 koper	male
 zwart	inanimate
@@ -64,221 +62,209 @@ jachtgezelschappen	Not in Knowledge Base
 ochtendmist	Not in Knowledge Base
 meutes	Not in Knowledge Base
 honden	plural
-Camilla	neutral
+Camilla	female
 mevrouw Parker Bowles	female
-verbod	female
+verbod	Not in Knowledge Base
 plattelanders	Not in Knowledge Base
-aanval	neutral
-manier	neutral
-leven	neutral
-Blair	neutral
-ministers	neutral
+aanval	plural
+manier	inanimate
+leven	inanimate
+Blair	Not in Knowledge Base
+ministers	Not in Knowledge Base
 protesten	Not in Knowledge Base
-keer	neutral
-ik	Not in Knowledge Base
-gezichten	neutral
-mensen	neutral
-ik	Not in Knowledge Base
+keer	inanimate
+gezichten	animate
+mensen	plural
 jachtverbod	Not in Knowledge Base
-vice-premier John Prescott	neutral
-jagers	neutral
+vice-premier John Prescott	female
+jagers	plural
 Conservatieven	Not in Knowledge Base
-pil	neutral
+pil	animate
 Labour	Not in Knowledge Base
-revolutie	neutral
-House	neutral
+revolutie	plural
+House	inanimate
 Lords	Not in Knowledge Base
 Britse Hogerhuis	Not in Knowledge Base
 hereditary peers	Not in Knowledge Base
 Binkies	Not in Knowledge Base
 baronnen	Not in Knowledge Base
 burggraven	Not in Knowledge Base
-graven	female
+graven	Not in Knowledge Base
 markiezen	Not in Knowledge Base
 hertogen	Not in Knowledge Base
-tafelzilver	female
+tafelzilver	Not in Knowledge Base
 schulden	inanimate
-landgoed	inanimate
-zetel	neutral
+landgoed	female
+zetel	inanimate
 Hogerhuis	Not in Knowledge Base
 privilege	Not in Knowledge Base
 life peers	female
 leden	plural
 hermelijn	Not in Knowledge Base
 adel	plural
-hertog van Buccleuch and Queensburry	neutral
+hertog van Buccleuch and Queensburry	male
 grondbezitter	Not in Knowledge Base
-Verenigd Koninkrijk	neutral
-titel	neutral
-feit	neutral
+Verenigd Koninkrijk	female
+titel	male
+feit	male
 voorvaderen	Not in Knowledge Base
 bastaardzoon	Not in Knowledge Base
 Charles II	male
 man	male
-minister Jack Straw	neutral
-Binnenlandse Zaken	neutral
+minister Jack Straw	male
+Binnenlandse Zaken	inanimate
 Conservatieven	Not in Knowledge Base
-Blair	neutral
-politieke	neutral
-overmacht	male
+Blair	Not in Knowledge Base
+politieke	Not in Knowledge Base
+overmacht	Not in Knowledge Base
 Hogerhuis	Not in Knowledge Base
 loonslaven	Not in Knowledge Base
 duvelstoejagers	Not in Knowledge Base
 Labour	Not in Knowledge Base
-Woede	male
+Woede	Not in Knowledge Base
 regimenten	Not in Knowledge Base
-Black Watch	neutral
-veteranen	inanimate
+Black Watch	female
+veteranen	Not in Knowledge Base
 gevechtseenheden	Not in Knowledge Base
 blazer	Not in Knowledge Base
 regimentsembleem	Not in Knowledge Base
-regen	neutral
+regen	inanimate
 reorganisatie	inanimate
-leger	neutral
-slag	neutral
+leger	inanimate
+slag	plural
 regiment	Not in Knowledge Base
-regering	neutral
-jaren	neutral
-historie	neutral
-veteraan	Not in Knowledge Base
+regering	female
+jaren	male
+historie	plural
+veteraan	female
 Conservatief	Not in Knowledge Base
 New Britannia	inanimate
-troost	neutral
+troost	inanimate
 bijna-zekerheid	Not in Knowledge Base
-jaren	neutral
+jaren	male
 dienstbaarheid	Not in Knowledge Base
-land	neutral
-titel	neutral
-Conservatief Engeland	neutral
+land	plural
+titel	male
+Conservatief Engeland	male
 voordrachten	Not in Knowledge Base
 profvoetballers	Not in Knowledge Base
 popsterren	Not in Knowledge Base
 filmsterren	Not in Knowledge Base
-regeringen	neutral
-populair	neutral
-volk	neutral
-Lagerhuis	neutral
+regeringen	inanimate
+populair	male
+volk	inanimate
+Lagerhuis	Not in Knowledge Base
 vraagtekens	Not in Knowledge Base
 lintjesregen	Not in Knowledge Base
 koningin Elizabeth	female
-hart	neutral
+hart	inanimate
 glas	inanimate
 bier	inanimate
-gezelschap	female
-pub	neutral
-pubs	Not in Knowledge Base
-tempo	neutral
-maand	neutral
+gezelschap	male
+pub	Not in Knowledge Base
+pubs	plural
+tempo	inanimate
+maand	inanimate
 blijvers	Not in Knowledge Base
-helft	inanimate
+helft	male
 ketens	Not in Knowledge Base
 geld	inanimate
-banken	neutral
-pub	neutral
-ik	Not in Knowledge Base
-ik	Not in Knowledge Base
-stukje	neutral
-Engeland	neutral
+banken	plural
+pub	Not in Knowledge Base
+stukje	inanimate
+Engeland	male
 dichter	male
-wandeling	neutral
-grond	neutral
-woede	male
-lucht	neutral
+wandeling	inanimate
+grond	male
+woede	Not in Knowledge Base
+lucht	male
 Landeigenaren	Not in Knowledge Base
-wandelaars	neutral
-Je	neutral
+wandelaars	plural
 hagel	Not in Knowledge Base
-land	neutral
+land	plural
 Labour	Not in Knowledge Base
 right to roam	inanimate
-iedereen	Not in Knowledge Base
-baan	neutral
+iedereen	male
+baan	inanimate
 landeigenaren	Not in Knowledge Base
-neiging	neutral
+neiging	male
 Labour	Not in Knowledge Base
-schuld	neutral
-ongeluk	neutral
-platteland	neutral
+schuld	male
+ongeluk	inanimate
+platteland	male
 Gekkekoeienziekte	Not in Knowledge Base
 mond-en-klauwzeer	Not in Knowledge Base
-jaren	neutral
-tol	neutral
-Boeren	neutral
-stallen	neutral
+jaren	male
+tol	Not in Knowledge Base
+Boeren	plural
+stallen	Not in Knowledge Base
 lijken	male
-erven	male
-conto	neutral
+erven	Not in Knowledge Base
+conto	Not in Knowledge Base
 Labour	Not in Knowledge Base
 Conservatieven	Not in Knowledge Base
 tijdgeest	Not in Knowledge Base
 Groot-Brittannie	Not in Knowledge Base
-land	neutral
+land	plural
 autos	inanimate
-Jaguar	male
-Rover	Not in Knowledge Base
+Jaguar	plural
+Rover	female
 Bently	Not in Knowledge Base
 Rolls-Royce	Not in Knowledge Base
-Rover	Not in Knowledge Base
+Rover	female
 autofabriek	Not in Knowledge Base
-tijd	neutral
-telefooncellen	neutral
+tijd	inanimate
+telefooncellen	Not in Knowledge Base
 routemaster	Not in Knowledge Base
 dubbeldekker	Not in Knowledge Base
 achterbalkon	Not in Knowledge Base
 vehikel	Not in Knowledge Base
-bussen	neutral
-Volvo	neutral
+bussen	Not in Knowledge Base
+Volvo	male
 Mercedes	male
-onderhoud	neutral
-uitlaatgassen	Not in Knowledge Base
-bussen	neutral
+onderhoud	inanimate
+uitlaatgassen	inanimate
+bussen	Not in Knowledge Base
 erfgoedroute	Not in Knowledge Base
-toeristen	neutral
-rest	neutral
-pond	neutral
-stuk	neutral
-krant	neutral
+toeristen	plural
+rest	inanimate
+pond	inanimate
+stuk	inanimate
+krant	female
 Kanaal	inanimate
 continent	inanimate
 Engelsman	male
-superieur	male
+superieur	Not in Knowledge Base
 Brussel	inanimate
 New Britannia	inanimate
 schoolkinderen	Not in Knowledge Base
-identiteit	neutral
+identiteit	plural
 etnische minderheden	Not in Knowledge Base
-ik	Not in Knowledge Base
 Pakistani	Not in Knowledge Base
-ik	Not in Knowledge Base
-moslim	inanimate
-ik	Not in Knowledge Base
-Aziaat	Not in Knowledge Base
+moslim	male
+Aziaat	female
 kinderen	plural
-ik	Not in Knowledge Base
-ogen	neutral
-ik	Not in Knowledge Base
+ogen	inanimate
 huid	female
-ik	Not in Knowledge Base
-ik	Not in Knowledge Base
-onderzoekers	neutral
-Jeremy Paxman	neutral
-interviewer	Not in Knowledge Base
-BBC	neutral
+onderzoekers	plural
+Jeremy Paxman	Not in Knowledge Base
+interviewer	female
+BBC	male
 boek	inanimate
 portrait	Not in Knowledge Base
-people	neutral
-volk	neutral
-tijd	neutral
+people	Not in Knowledge Base
+volk	inanimate
+tijd	inanimate
 Britten	plural
 heetwaterkruiken	Not in Knowledge Base
 seksleven	Not in Knowledge Base
 mysteries	inanimate
-wereld	neutral
-klasse	neutral
-emoties	neutral
+wereld	inanimate
+klasse	inanimate
+emoties	inanimate
 Paxmans	Not in Knowledge Base
-woorden	neutral
+woorden	inanimate
 beschrijving	inanimate
-platteland	neutral
-echo	neutral
-verleden	neutral
+platteland	male
+echo	plural
+verleden	inanimate

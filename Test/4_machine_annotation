@@ -1,158 +1,158 @@
-huis	neutral
-buitenland	neutral
+huis	inanimate
+buitenland	inanimate
 haken	male
-ogen	neutral
-ambassade	neutral
-belangstellenden	Not in Knowledge Base
-koop	neutral
-huis	neutral
-Turkije	neutral
+ogen	inanimate
+ambassade	female
+belangstellenden	plural
+koop	inanimate
+huis	inanimate
+Turkije	inanimate
 Noord-Cyprus	Not in Knowledge Base
 folder	inanimate
-projectontwikkelaar Bellapais Onroerend Goed	female
+projectontwikkelaar Bellapais Onroerend Goed	inanimate
 Amsterdam	inanimate
 park	inanimate
 deel	inanimate
 Noord-Cyprus	Not in Knowledge Base
-uitlopers	neutral
+uitlopers	Not in Knowledge Base
 bergmassief	Not in Knowledge Base
-kathedraal	neutral
-uitzicht	neutral
-weer	neutral
-kust	neutral
-zandstranden	neutral
-baaien	inanimate
+kathedraal	Not in Knowledge Base
+uitzicht	inanimate
+weer	inanimate
+kust	Not in Knowledge Base
+zandstranden	Not in Knowledge Base
+baaien	Not in Knowledge Base
 thuis	Not in Knowledge Base
 deel	inanimate
 villas	inanimate
-appartementen	neutral
-Nederlanders	neutral
+appartementen	inanimate
+Nederlanders	plural
 park	inanimate
-omwonenden	neutral
+omwonenden	Not in Knowledge Base
 bijnaam	Not in Knowledge Base
-Dutch village	female
-prijzen	neutral
-appartement	neutral
+Dutch village	male
+prijzen	male
+appartement	inanimate
 villa	female
-oplevering	neutral
-jaar	neutral
+oplevering	Not in Knowledge Base
+jaar	animate
 beurs Second Home	inanimate
-Jaarbeurs	neutral
+Jaarbeurs	Not in Knowledge Base
 Utrecht	inanimate
-koop	neutral
-huis	neutral
-buitenland	neutral
-deur	neutral
-ambassade	neutral
-Cyprus	neutral
-waarschuwing	neutral
+koop	inanimate
+huis	inanimate
+buitenland	inanimate
+deur	inanimate
+ambassade	female
+Cyprus	inanimate
+waarschuwing	inanimate
 adres	inanimate
-kopers	male
-woordvoerder	neutral
-mogelijkheid	neutral
-kopers	male
+kopers	plural
+woordvoerder	male
+mogelijkheid	male
+kopers	plural
 geld	inanimate
-gevallen	neutral
-vakantiehuizen	Not in Knowledge Base
-grond	neutral
-vluchtelingen	neutral
-gevolg	neutral
+gevallen	inanimate
+vakantiehuizen	inanimate
+grond	male
+vluchtelingen	plural
+gevolg	plural
 inval	Not in Knowledge Base
-echtpaar	neutral
+echtpaar	plural
 Noord-Cyprus	Not in Knowledge Base
-woning	neutral
+woning	inanimate
 ontruiming	Not in Knowledge Base
-vernietiging	neutral
-woning	neutral
-grond	neutral
-echtpaar	neutral
-schadevergoeding	inanimate
+vernietiging	Not in Knowledge Base
+woning	inanimate
+grond	male
+echtpaar	plural
+schadevergoeding	Not in Knowledge Base
 eigenaar	male
-vluchteling	neutral
-uitspraak	neutral
-rechtbank	neutral
+vluchteling	Not in Knowledge Base
+uitspraak	inanimate
+rechtbank	male
 Nicosia	Not in Knowledge Base
-gevolg	neutral
-situatie	neutral
-uitspraak	neutral
+gevolg	plural
+situatie	inanimate
+uitspraak	inanimate
 Noord-Cyprus	Not in Knowledge Base
-investeerder	neutral
-woning	neutral
+investeerder	Not in Knowledge Base
+woning	inanimate
 kermis	inanimate
-Cyprus	neutral
+Cyprus	inanimate
 lid	male
-Europese Unie	neutral
-regel	neutral
-uitspraak	neutral
-rechtbank	neutral
-rechtbank	neutral
+Europese Unie	female
+regel	Not in Knowledge Base
+uitspraak	inanimate
+rechtbank	male
+rechtbank	male
 EU-land	Not in Knowledge Base
-betrokkene	neutral
+betrokkene	male
 vonnis	inanimate
-verbeurdverklaring	animate
-eigendommen	neutral
+verbeurdverklaring	Not in Knowledge Base
+eigendommen	Not in Knowledge Base
 koper	male
 thuisland	Not in Knowledge Base
-ambassade	neutral
-woordvoerder	neutral
-kans	neutral
-Nederlanders	neutral
-dupe	female
-praktijken	neutral
+ambassade	female
+woordvoerder	male
+kans	male
+Nederlanders	plural
+dupe	Not in Knowledge Base
+praktijken	plural
 vastgoedfirmas	Not in Knowledge Base
 Bellapais	Not in Knowledge Base
 Amsterdam	inanimate
-vakantiewoningen	inanimate
+vakantiewoningen	Not in Knowledge Base
 firma Beylerbeyi Emlak ltd	Not in Knowledge Base
 geinteresseerden	Not in Knowledge Base
-gevolg	neutral
-prijzen	neutral
-vakantiehuizen	Not in Knowledge Base
+gevolg	plural
+prijzen	male
+vakantiehuizen	inanimate
 Noord-Cyprus	Not in Knowledge Base
-val	neutral
-gevolgen	inanimate
-kans	neutral
-verkoper	neutral
-belangstellenden	Not in Knowledge Base
+val	inanimate
+gevolgen	Not in Knowledge Base
+kans	male
+verkoper	male
+belangstellenden	plural
 informatie	inanimate
-eerste	neutral
+eerste	inanimate
 koper	male
-Kamer van Koophandel	neutral
-Bellapais Onroerend Goed	female
+Kamer van Koophandel	inanimate
+Bellapais Onroerend Goed	inanimate
 onbekend	Not in Knowledge Base
-reactie	neutral
+reactie	male
 Bellapais	Not in Knowledge Base
-interesse	inanimate
-woningen	inanimate
-toename	neutral
-bouw	neutral
-suggestie	neutral
-praktijken	neutral
-overheid	neutral
-overheid	neutral
-mening	neutral
+interesse	Not in Knowledge Base
+woningen	plural
+toename	inanimate
+bouw	inanimate
+suggestie	inanimate
+praktijken	plural
+overheid	female
+overheid	female
+mening	inanimate
 Noord-Cyprus	Not in Knowledge Base
-handelingen	inanimate
-overheid	neutral
+handelingen	Not in Knowledge Base
+overheid	female
 rechtsgeldigheid	Not in Knowledge Base
-stelling	neutral
+stelling	inanimate
 deskundigen	Not in Knowledge Base
-gebied	neutral
-recht	neutral
-overheid	neutral
-acties	neutral
-kopers	male
-kopers	male
+gebied	inanimate
+recht	inanimate
+overheid	female
+acties	Not in Knowledge Base
+kopers	plural
+kopers	plural
 wetsovertreders	Not in Knowledge Base
 voorlichting	inanimate
-standaard	neutral
+standaard	inanimate
 uitleg	inanimate
 eigendomsverhoudingen	Not in Knowledge Base
-Men	inanimate
+Men	Not in Knowledge Base
 bouwer	female
-partijen	neutral
-Feit	neutral
-vakantiewoning	neutral
-wachten	neutral
+partijen	plural
+Feit	male
+vakantiewoning	Not in Knowledge Base
+wachten	Not in Knowledge Base
 gekissebis	Not in Knowledge Base
 mens	male

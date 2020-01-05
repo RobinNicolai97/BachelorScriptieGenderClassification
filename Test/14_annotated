@@ -1,6 +1,4 @@
 pub	inanimate
-ik	neutral
-ik	neutral
 stukje	inanimate
 Engeland	inanimate
 Premier John Major	male
@@ -75,10 +73,8 @@ Blair	male
 ministers	plural
 protesten	inanimate
 keer	inanimate
-ik	male
 gezichten 	inanimate
 mensen	plural
-ik	male
 jachtverbod	inanimate
 vice-premier John Prescott	male
 jagers	plural
@@ -175,8 +171,6 @@ ketens	inanimate
 geld	inanimate
 banken	inanimate
 pub	inanimate
-ik	male
-ik	male
 stukje	inanimate
 Engeland	inanimate
 dichter	male
@@ -186,7 +180,6 @@ woede	inanimate
 lucht	inanimate
 Landeigenaren	plural
 wandelaars	plural
-Je	neutral
 hagel	inanimate
 land	inanimate
 Labour	plural
@@ -247,19 +240,12 @@ New Britannia	inanimate
 schoolkinderen	plural
 identiteit	inanimate
 etnische minderheden	plural
-ik	neutral
 Pakistani	neutral
-ik	neutral
 moslim	male
-ik	neutral
 Aziaat	neutral
 kinderen	plural
-ik	neutral
 ogen	inanimate
-ik	neutral
 huid	inanimate
-ik	neutral
-ik	neutral
 onderzoekers	plural
 Jeremy Paxman	male
 interviewer	male

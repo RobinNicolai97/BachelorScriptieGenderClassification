@@ -16,14 +16,11 @@ Tjibbe Joustra	male
 Nationaal Coordinator Terrorismebestrijding	male
 april	inanimate
 jaar	inanimate
-Ik	male
-ik	male
 moment	inanimate
 Nederland	inanimate
 ban	inanimate
 terrorisme	inanimate
 jaar	inanimate
-Ik	male
 voorbeeld	inanimate
 september	inanimate
 jaar	inanimate
@@ -96,11 +93,9 @@ toevalstreffer	inanimate
 arrestatie	inanimate
 ellende	inanimate
 Nederlanders	plural
-Ik	male
 gedachte	inanimate
 aanslag	inanimate
 reden	inanimate
-ik	male
 Nederland	inanimate
 aanslag	inanimate
 terreur	inanimate
@@ -108,28 +103,23 @@ aanslagen	inanimate
 Londen	inanimate
 maatregelen	inanimate
 aanwijzingen	inanimate
-Ik	male
 maatregelen	inanimate
 geval	inanimate
 gevoel	inanimate
 veiligheid	inanimate
 show	inanimate
-Je	neutral
 militairen	plural
 straat	inanimate
 beelden	inanimate
-ik	male
 maanden	inanimate
 keer	inanimate
 niemand	neutral
-je	neutral
 internet	inanimate
 Nederland	inanimate
 doelwit	inanimate
 week	inanimate
 land	inanimate
 kop	inanimate
-Je	neutral
 concreets	inanimate
 dreiging	inanimate
 spoor	inanimate
@@ -141,21 +131,16 @@ Rotterdam	inanimate
 Hofstadgroep	plural
 beveiliging	plural
 zittingen	inanimate
-Ik	male
 details	inanimate
-ik	male
 reden	inanimate
 extra- beveiliging	plural
 aanwijzingen	inanimate
-u	neutral
 aanslagen	inanimate
-je	neutral
 aanslag	inanimate
 mensen	plural
 bom	inanimate
 tijd	inanimate
 draadjes	inanimate
-je	neutral
 iemand	neutral
 wapen	inanimate
 aanwijzingen	inanimate
@@ -169,14 +154,11 @@ terrorisme	inanimate
 Nederlanders	plural
 informatie	inanimate
 behoefte	inanimate
-ik	male
 jaar	inanimate
 folder	inanimate
 informatie	inanimate
 effect	inanimate
-Je	neutral
 boodschap	inanimate
-je	neutral
 Verenigde Staten	inanimate
 burgers	plural
 informatie	inanimate
@@ -193,7 +175,6 @@ arrestatie	inanimate
 Nouredine El F.	male
 man	male
 mitrailleur	inanimate
-u	neutral
 verrassing	inanimate
 arrestatie	inanimate
 informatie	inanimate
@@ -207,9 +188,7 @@ adressen	inanimate
 politici	plural 
 beveiliging	plural
 mensen	plural
-ik	male
 mensen	plural
-u	neutral
 mensen	plural
 informatie	inanimate
 inlichtingendiensten	plural
@@ -224,12 +203,10 @@ dreigingsbeeld	inanimate
 beslissingen	inanimate
 gebied	inanimate
 terrorismebestrijding	plural
-je	neutral
 informatie	inanimate
 acties	inanimate
 personen	plural
 groepen	plural
-je	neutral
 aantal	inanimate
 mensen	plural
 persoon	neutral
@@ -245,7 +222,6 @@ iemand	neutral
 politie	plural
 persoon	neutral
 moskee	inanimate
-je	neutral
 bewijs	inanimate
 iemand	neutral
 rechter	neutral
