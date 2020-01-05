@@ -1,102 +1,102 @@
-vraag	neutral
-Londen	neutral
-aanslagen	neutral
-geheim	neutral
-hoofdstad	neutral
+vraag	inanimate
+Londen	plural
+aanslagen	Not in Knowledge Base
+geheim	inanimate
+hoofdstad	female
 stip	Not in Knowledge Base
 lijst	inanimate
-terrorisme	neutral
-aanslagen	neutral
-New York	neutral
+terrorisme	plural
+aanslagen	Not in Knowledge Base
+New York	male
 Washington	plural
-september	neutral
+september	inanimate
 2001	Not in Knowledge Base
-Osama bin Laden	inanimate
+Osama bin Laden	male
 boegbeeld	male
 terreurnetwerk	Not in Knowledge Base
 al-Qaeda	Not in Knowledge Base
 afstraffing	Not in Knowledge Base
-Amerika	neutral
+Amerika	male
 Groot-Brittannie	Not in Knowledge Base
 roep	inanimate
 bloedbad	Not in Knowledge Base
-Londen	neutral
-premier Tony Blair	male
-troepen	plural
-ogen	neutral
-onderaannemer	male
-VS	neutral
+Londen	plural
+premier Tony Blair	inanimate
+troepen	Not in Knowledge Base
+ogen	inanimate
+onderaannemer	animate
+VS	plural
 Irak	female
-Afghanistan	neutral
-aanslagen	neutral
-Londen	neutral
+Afghanistan	plural
+aanslagen	Not in Knowledge Base
+Londen	plural
 uren	inanimate
-naam	neutral
+naam	inanimate
 al-Qaeda	Not in Knowledge Base
-zekerheid	neutral
-naam	neutral
-organisatie	neutral
-groep	neutral
+zekerheid	inanimate
+naam	inanimate
+organisatie	female
+groep	female
 al-Qaeda's	Not in Knowledge Base
 Jihad	inanimate
-Europa	neutral
+Europa	male
 beeld	inanimate
 terreurbestrijders	Not in Knowledge Base
-extremisme	inanimate
-cellen	female
-Bin Laden	neutral
+extremisme	Not in Knowledge Base
+cellen	plural
+Bin Laden	inanimate
 fanatici	Not in Knowledge Base
-haat	male
+haat	Not in Knowledge Base
 Syrier	Not in Knowledge Base
-Nederland	neutral
+Nederland	female
 terreurdaden	Not in Knowledge Base
-Londen	neutral
-vingerafdruk	neutral
-Bin Ladens	neutral
+Londen	plural
+vingerafdruk	Not in Knowledge Base
+Bin Ladens	Not in Knowledge Base
 al-Qaeda	Not in Knowledge Base
 reeks	inanimate
-aanslagen	neutral
+aanslagen	Not in Knowledge Base
 tussenpozen	Not in Knowledge Base
 slachtoffers	plural
 werkwijze	inanimate
 Irak	female
-maart	neutral
+maart	male
 2003	Not in Knowledge Base
-Madrid	neutral
-september	neutral
+Madrid	male
+september	inanimate
 2001	Not in Knowledge Base
-VS	neutral
-aanslagen	neutral
-Londen	neutral
+VS	plural
+aanslagen	Not in Knowledge Base
+Londen	plural
 terreurbestrijders	Not in Knowledge Base
-oorlog	neutral
-terrorisme	neutral
-dag	neutral
+oorlog	male
+terrorisme	plural
+dag	inanimate
 versnippering	Not in Knowledge Base
-terrorisme	neutral
-opkomst	inanimate
-generatie	neutral
-Europa	neutral
+terrorisme	plural
+opkomst	Not in Knowledge Base
+generatie	animate
+Europa	male
 terroristen	inanimate
-strijd	neutral
+strijd	inanimate
 jongeren	plural
-Europa	neutral
-landen	neutral
-operaties	inanimate
+Europa	male
+landen	inanimate
+operaties	female
 Irak	female
-Afghanistan	neutral
-Nederland	neutral
-gevaar	neutral
-september	neutral
+Afghanistan	plural
+Nederland	female
+gevaar	male
+september	inanimate
 2001	Not in Knowledge Base
-veiligheidsdiensten	Not in Knowledge Base
-Europa	neutral
-aanslagen	neutral
+veiligheidsdiensten	plural
+Europa	male
+aanslagen	Not in Knowledge Base
 Groot-Brittannie	Not in Knowledge Base
-succes	neutral
-diensten	inanimate
-zekerheid	neutral
+succes	animate
+diensten	female
+zekerheid	inanimate
 explosies	Not in Knowledge Base
-Londen	neutral
-aanslag	neutral
+Londen	plural
+aanslag	Not in Knowledge Base
 vragen	inanimate
